@@ -361,3 +361,26 @@ grid-area: 2 / 2 / span end / span end;
   height:100vh;
 
 }
+
+
+/* Mikael - About */
+
+.sq-grid-area-1{
+  grid-area: 1 / 2 / span 2 / span 3;
+}
+
+.sq-grid-area-2{
+  grid-area: 1 / 6 / span 2 / span 3;
+}
+
+.sq-grid-area-3{
+  grid-area: 4 / 2 / span 1 / span 3;
+}
+
+.sq-grid-area-4{
+  grid-area: 4 / 6 / span 1 / span 3; 
+}
+
+.sq-headline-border-bottom{
+  border-bottom: solid 1px black;
+}
